@@ -1,4 +1,4 @@
-# SQL_Generator
+SQL# SQL_Generator
 This code uses the OpenAI API to generate SQL code from user database information, based on your request to group the data.
 
 Requirements:
@@ -18,6 +18,6 @@ Setup:
 
 Follow the on-screen instructions to provide details about your database, schemas, and columns. Then, provide a prompt for SQL generation, and the script will use GPT-4 to generate SQL code based on your inputs.
 
-Generated SQL code will be saved in a .txt file named with the current date and time.
+Generated SQL code will be saved in a .sql file named with the current date and time.
 
 You have the option to continue generating SQL with the current data or provide new data or quit the program.
